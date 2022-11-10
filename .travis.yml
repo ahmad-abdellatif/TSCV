@@ -2,10 +2,6 @@ sudo: false
 
 language: python
 
-os:
-  - linux
-  - windows
-
 cache:
   directories:
   - $HOME/.cache/pip
