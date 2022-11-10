@@ -1,10 +1,10 @@
 sudo: false
 
+language: python
+
 os:
   - linux
   - osx
-
-language: python
 
 cache:
   directories:
